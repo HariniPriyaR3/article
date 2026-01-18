@@ -5,14 +5,14 @@ This project was created to publish articles online and practice organizing mult
 
 🔗 Live Website
 You can read the articles here:  
-👉 https://USERNAME.github.io/Articles/
+👉 https://harinipriyar3.github.io/article/
 
 📄 Articles Included
 - Main article page  : `index.html` — Article homepage  
 - Individual article pages -> Stranger Things article
 
-  ![st](https://github.com/user-attachments/assets/877b4d43-9c78-44ee-b3ee-7c722fac107f)
-
-
+  <p align="center">
+  <img src="![st](https://github.com/user-attachments/assets/877b4d43-9c78-44ee-b3ee-7c722fac107f)" alt="Resume Preview" width="400"/>
+</p>
 
 Happy reading ✨
