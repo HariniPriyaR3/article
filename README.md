@@ -9,9 +9,12 @@ You can read the articles here:
 
 📄 Articles Included
 - Main article page  : `index.html` — Article homepage  
-- Individual article pages -> Stranger Things article
 <p align="center">
-<img src="https://github.com/user-attachments/assets/877b4d43-9c78-44ee-b3ee-7c722fac107f" alt="Resume Preview" width="200">
+<img src="(https://github.com/user-attachments/assets/0dee9a30-9dc6-4a3d-9cd1-3ef129243416)" alt="main image" >
 </p>
+
+- Individual article pages -> Stranger Things article
+
  
+
 Happy reading ✨
